@@ -1,0 +1,18 @@
+{
+  "name": "@mariogl_digi/is-wds2",
+  "version": "1.0.0",
+  "description": "Is the string WDS?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarioGLDIGI/is-wds-npm-package22.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "MarioGL",
+  "license": "ISC"
+}
